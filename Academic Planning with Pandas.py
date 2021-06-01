@@ -97,6 +97,7 @@ def main():
     alpha = dict_maker(lst)
     data_vis(alpha)
     schedule()
+    print("This is the end of the code!")
     
 main()
 
